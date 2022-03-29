@@ -1,4 +1,4 @@
-# Image compressor 
+# 1. Image compressor 
 
 Questo programma serve per comprimere immagini.
 All'utente si richiede di inserire il path della cartella e la qualità finale con un valore compreso tra 0 e 100.
